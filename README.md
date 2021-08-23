@@ -1,4 +1,4 @@
-# num-calc
+# Numerical Methods
 Universidade Veiga de Almeida 
 Numerical Analysis
 Date: 10/2019
